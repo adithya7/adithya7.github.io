@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## 2021
 
-- **Adithya Pratapa**\*, Antonios Anastasopoulos\*, Shruti Rijhwani, Aditi Chaudhary, David R. Mortensen, Graham Neubig, and Yulia Tsvetkov. 2021. Evaluating the Morphosyntactic Well-formedness of Generated Texts. *Preprint (long)*. \\
+- **Adithya Pratapa**\*, Antonios Anastasopoulos\*, Shruti Rijhwani, Aditi Chaudhary, David R. Mortensen, Graham Neubig, and Yulia Tsvetkov. 2021. Evaluating the Morphosyntactic Well-formedness of Generated Texts. Preprint (long). \\
 [\[Paper\]](https://arxiv.org/abs/2103.16590) [\[Code/Data\]](https://github.com/adithya7/lambre)
 
 ## 2020

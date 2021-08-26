@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-- **Adithya Pratapa**,\* Antonios Anastasopoulos,\* Shruti Rijhwani, Aditi Chaudhary, David R. Mortensen, Graham Neubig, and Yulia Tsvetkov. 2021. [Evaluating the Morphosyntactic Well-formedness of Generated Texts](https://arxiv.org/abs/2103.16590). Preprint (long). \\
+- **Adithya Pratapa**,\* Antonios Anastasopoulos,\* Shruti Rijhwani, Aditi Chaudhary, David R. Mortensen, Graham Neubig, and Yulia Tsvetkov. 2021. [Evaluating the Morphosyntactic Well-formedness of Generated Texts](https://arxiv.org/abs/2103.16590). EMNLP 2021 (long). \\
 [\[Code/Data\]](https://github.com/adithya7/lambre)
 
 - Sai Muralidhar Jayanthi\* and **Adithya Pratapa**.\* 2021. [A Study of Morphological Robustness of Neural Machine Translation](https://aclanthology.org/2021.sigmorphon-1.6/). Proceedings of the 18th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology. \\

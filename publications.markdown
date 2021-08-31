@@ -41,4 +41,4 @@ _EMNLP 2018 (short)_ \\
 - [Quantitative Characterization of Code Switching Patterns in Complex Multi-Party Conversations: A Case Study on Hindi Movie Scripts](https://www.aclweb.org/anthology/W17-7510/) \\
 _Adithya Pratapa_ and Monojit Choudhury. \\
 _ICON 2017 (long)_ \\
-[\[Slides\]](https://adithya7.github.io/docs/icon_2017_slides.pdf) [\[Media\]](https://tech.economictimes.indiatimes.com/news/technology/microsoft-is-using-bollywood-movies-to-build-better-local-language-ai-models/61014436)
+[\[Media\]](https://tech.economictimes.indiatimes.com/news/technology/microsoft-is-using-bollywood-movies-to-build-better-local-language-ai-models/61014436)

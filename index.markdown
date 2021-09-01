@@ -6,3 +6,5 @@ layout: page
 ---
 
 Hi, I am a PhD student at the [LTI, CMU](https://lti.cs.cmu.edu/) working with [Prof. Teruko Mitamura](https://scholar.google.com/citations?user=gjsxBCkAAAAJ). My current research interests are on problems relating to event semantics and multilingual NLP. In the past, I was a research fellow at Microsoft Research India, working with [Dr. Monojit Choudhury](https://scholar.google.com/citations?user=WR1ImCMAAAAJ) on code-switching related tasks. I graduated with a Bachelor's in Computer Science from IIT Bombay.
+
+See my recent publications [here](https://adithya7.github.io/publications/).

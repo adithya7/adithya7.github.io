@@ -18,7 +18,7 @@ _EMNLP 2021 (long)_ \\
 - [A Study of Morphological Robustness of Neural Machine Translation](https://aclanthology.org/2021.sigmorphon-1.6/) \\
 Sai Muralidhar Jayanthi\* and _Adithya Pratapa_.\* \\
 _SIGMORPHON @ ACL 2021 (long)_ \\
-[\[Code\]](https://github.com/murali1996/morpheus_multilingual)
+[\[Code\]](https://github.com/murali1996/morpheus_multilingual) [\[Slides\]](https://adithya7.github.io/files/sigmorphon_acl_2021.pdf)
 
 - [Constrained Fact Verification for FEVER](https://www.aclweb.org/anthology/2020.emnlp-main.629/) \\
 _Adithya Pratapa_,\* Sai Muralidhar Jayanthi\* and Kavya Nerella.\* \\

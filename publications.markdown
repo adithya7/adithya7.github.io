@@ -8,7 +8,8 @@ See my publications on [Google Scholar](https://scholar.google.com/citations?use
 
 - Cross-document Event Identity via Dense Annotation \\
 _Adithya Pratapa_, Zhengzhong Liu, Kimihiro Hasegawa, Linwei Li, Yukari Yamakawa, Shikun Zhang and Teruko Mitamura. \\
-_CoNLL 2021 (long)_
+_CoNLL 2021 (long)_ \\
+[\[Code/Data\]](https://github.com/adithya7/cdec-wikinews)
  
 - [Evaluating the Morphosyntactic Well-formedness of Generated Texts](https://arxiv.org/abs/2103.16590) \\
 _Adithya Pratapa_,\* Antonios Anastasopoulos,\* Shruti Rijhwani, Aditi Chaudhary, David R. Mortensen, Graham Neubig and Yulia Tsvetkov. \\

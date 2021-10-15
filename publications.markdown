@@ -9,12 +9,12 @@ See my publications on [Google Scholar](https://scholar.google.com/citations?use
 - [Cross-document Event Identity via Dense Annotation](https://arxiv.org/abs/2109.06417) \\
 _Adithya Pratapa_, Zhengzhong Liu, Kimihiro Hasegawa, Linwei Li, Yukari Yamakawa, Shikun Zhang and Teruko Mitamura. \\
 _CoNLL 2021 (long)_ \\
-[\[Dataset\]](https://github.com/adithya7/cdec-wikinews/releases/tag/v1.0) [\[Code\]](https://github.com/adithya7/cdec-wikinews)
+[\[Dataset\]](https://github.com/adithya7/cdec-wikinews/releases/tag/v1.0) [\[Code\]](https://github.com/adithya7/cdec-wikinews) [\[Slides\]](https://adithya7.github.io/files/cdec-wn_conll_slides.pdf)
  
 - [Evaluating the Morphosyntactic Well-formedness of Generated Texts](https://arxiv.org/abs/2103.16590) \\
 _Adithya Pratapa_,\* Antonios Anastasopoulos,\* Shruti Rijhwani, Aditi Chaudhary, David R. Mortensen, Graham Neubig and Yulia Tsvetkov. \\
 _EMNLP 2021 (long)_ \\
-[\[Code & Data\]](https://github.com/adithya7/lambre)
+[\[Code & Data\]](https://github.com/adithya7/lambre) [\[Slides\]](https://adithya7.github.io/files/lambre_emnlp_slides.pdf)
 
 - [A Study of Morphological Robustness of Neural Machine Translation](https://aclanthology.org/2021.sigmorphon-1.6/) \\
 Sai Muralidhar Jayanthi\* and _Adithya Pratapa_.\* \\
@@ -24,7 +24,7 @@ _SIGMORPHON @ ACL 2021 (long)_ \\
 - [Constrained Fact Verification for FEVER](https://aclanthology.org/2020.emnlp-main.629/) \\
 _Adithya Pratapa_,\* Sai Muralidhar Jayanthi\* and Kavya Nerella.\* \\
 _EMNLP 2020 (short)_ \\
-[\[Presentation\]](https://slideslive.com/38939184) [\[Code/Data\]](https://github.com/adithya7/constrained-fever)
+[\[Presentation\]](https://slideslive.com/38939184) [\[Code & Data\]](https://github.com/adithya7/constrained-fever)
 
 - [Automatic Extraction of Rules Governing Morphological Agreement](https://aclanthology.org/2020.emnlp-main.422/) \\
 Aditi Chaudhary, Antonios Anastasopoulos, _Adithya Pratapa_, David R. Mortensen, Zaid Sheikh, Yulia Tsvetkov and Graham Neubig. \\

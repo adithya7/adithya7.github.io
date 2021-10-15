@@ -24,7 +24,7 @@ _SIGMORPHON @ ACL 2021 (long)_ \\
 - [Constrained Fact Verification for FEVER](https://aclanthology.org/2020.emnlp-main.629/) \\
 _Adithya Pratapa_,\* Sai Muralidhar Jayanthi\* and Kavya Nerella.\* \\
 _EMNLP 2020 (short)_ \\
-[\[Presentation\]](https://slideslive.com/38939184) [\[Code & Data\]](https://github.com/adithya7/constrained-fever)
+[\[Video\]](https://slideslive.com/38939184) [\[Code & Data\]](https://github.com/adithya7/constrained-fever)
 
 - [Automatic Extraction of Rules Governing Morphological Agreement](https://aclanthology.org/2020.emnlp-main.422/) \\
 Aditi Chaudhary, Antonios Anastasopoulos, _Adithya Pratapa_, David R. Mortensen, Zaid Sheikh, Yulia Tsvetkov and Graham Neubig. \\

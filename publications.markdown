@@ -6,12 +6,12 @@ permalink: /publications/
 
 See my publications on [Google Scholar](https://scholar.google.com/citations?user=BAT6abIAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/Adithya-Pratapa/51132476).
 
-- [Cross-document Event Identity via Dense Annotation](https://arxiv.org/abs/2109.06417) \\
+- [Cross-document Event Identity via Dense Annotation](https://aclanthology.org/2021.conll-1.39/) \\
 _Adithya Pratapa_, Zhengzhong Liu, Kimihiro Hasegawa, Linwei Li, Yukari Yamakawa, Shikun Zhang and Teruko Mitamura. \\
 _CoNLL 2021 (long)_ \\
 [\[Dataset\]](https://github.com/adithya7/cdec-wikinews/releases/tag/v1.0) [\[Code\]](https://github.com/adithya7/cdec-wikinews) [\[Slides\]](https://adithya7.github.io/files/cdec-wn_conll_slides.pdf)
  
-- [Evaluating the Morphosyntactic Well-formedness of Generated Texts](https://arxiv.org/abs/2103.16590) \\
+- [Evaluating the Morphosyntactic Well-formedness of Generated Texts](https://aclanthology.org/2021.emnlp-main.570/) \\
 _Adithya Pratapa_,\* Antonios Anastasopoulos,\* Shruti Rijhwani, Aditi Chaudhary, David R. Mortensen, Graham Neubig and Yulia Tsvetkov. \\
 _EMNLP 2021 (long)_ \\
 [\[Code & Data\]](https://github.com/adithya7/lambre) [\[Slides\]](https://adithya7.github.io/files/lambre_emnlp_slides.pdf)

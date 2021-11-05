@@ -4,17 +4,22 @@ title: Publications
 permalink: /publications/
 ---
 
-See my publications on [Google Scholar](https://scholar.google.com/citations?user=BAT6abIAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/Adithya-Pratapa/51132476).
+See my publications on [Google Scholar](https://scholar.google.com/citations?user=BAT6abIAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Adithya-Pratapa/51132476) and [ACL Anthology](https://aclanthology.org/people/a/adithya-pratapa/).
 
 - [Cross-document Event Identity via Dense Annotation](https://aclanthology.org/2021.conll-1.39/) \\
 _Adithya Pratapa_, Zhengzhong Liu, Kimihiro Hasegawa, Linwei Li, Yukari Yamakawa, Shikun Zhang and Teruko Mitamura. \\
 _CoNLL 2021 (long)_ \\
-[\[Dataset\]](https://github.com/adithya7/cdec-wikinews/releases/tag/v1.0) [\[Code\]](https://github.com/adithya7/cdec-wikinews) [\[Slides\]](https://adithya7.github.io/files/cdec-wn_conll_slides.pdf)
+[\[Dataset\]](https://github.com/adithya7/cdec-wikinews) [\[Annotation Toolkit\]](https://github.com/adithya7/cdec-ann-tool) [\[Slides\]](https://adithya7.github.io/files/cdec-wn_conll_slides.pdf)
  
 - [Evaluating the Morphosyntactic Well-formedness of Generated Texts](https://aclanthology.org/2021.emnlp-main.570/) \\
 _Adithya Pratapa_,\* Antonios Anastasopoulos,\* Shruti Rijhwani, Aditi Chaudhary, David R. Mortensen, Graham Neubig and Yulia Tsvetkov. \\
 _EMNLP 2021 (long)_ \\
 [\[Code & Data\]](https://github.com/adithya7/lambre) [\[Slides\]](https://adithya7.github.io/files/lambre_emnlp_slides.pdf)
+
+- [Comparing Grammatical Theories of Code-Mixing](https://aclanthology.org/2021.wnut-1.18/) \\
+_Adithya Pratapa_, Monojit Choudhury \\
+_W-NUT 2021 (long)_ \\
+[\[Poster\]](https://adithya7.github.io/files/wnut_codemixing_poster.pdf)
 
 - [A Study of Morphological Robustness of Neural Machine Translation](https://aclanthology.org/2021.sigmorphon-1.6/) \\
 Sai Muralidhar Jayanthi\* and _Adithya Pratapa_.\* \\

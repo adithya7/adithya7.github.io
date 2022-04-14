@@ -6,6 +6,11 @@ permalink: /publications/
 
 See my publications on [Google Scholar](https://scholar.google.com/citations?user=BAT6abIAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Adithya-Pratapa/51132476) and [ACL Anthology](https://aclanthology.org/people/a/adithya-pratapa/).
 
+- [Multilingual Event Linking to Wikidata](https://arxiv.org/abs/2204.06535) \\
+_Adithya Pratapa_, Rishubh Gupta, Teruko Mitamura. \\
+_Preprint 2022 (long)__
+
+
 - [Cross-document Event Identity via Dense Annotation](https://aclanthology.org/2021.conll-1.39/) \\
 _Adithya Pratapa_, Zhengzhong Liu, Kimihiro Hasegawa, Linwei Li, Yukari Yamakawa, Shikun Zhang and Teruko Mitamura. \\
 _CoNLL 2021 (long)_ \\

@@ -8,7 +8,7 @@ See my publications on [Google Scholar](https://scholar.google.com/citations?use
 
 - [Multilingual Event Linking to Wikidata](https://arxiv.org/abs/2204.06535) \\
 _Adithya Pratapa_, Rishubh Gupta, Teruko Mitamura. \\
-_Preprint 2022 (long)_ \\
+_Multilingual Information Access Workshop @ NAACL 2022 (long)_ \\
 [\[Dataset\]](https://github.com/adithya7/xlel-wd)
 
 - [Cross-document Event Identity via Dense Annotation](https://aclanthology.org/2021.conll-1.39/) \\

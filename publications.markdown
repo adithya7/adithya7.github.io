@@ -6,6 +6,10 @@ permalink: /publications/
 
 See my publications on [Google Scholar](https://scholar.google.com/citations?user=BAT6abIAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Adithya-Pratapa/51132476) and [ACL Anthology](https://aclanthology.org/people/a/adithya-pratapa/).
 
+- Hierarchical Event Grounding \\
+Jiefu Ou, _Adithya Pratapa_, Rishubh Gupta, Teruko Mitamura. \\
+_AAAI 2023_
+
 - [Multilingual Event Linking to Wikidata](https://aclanthology.org/2022.mia-1.5/) \\
 _Adithya Pratapa_, Rishubh Gupta, Teruko Mitamura. \\
 _Multilingual Information Access Workshop @ NAACL 2022 (long)_ (**Best Paper**) \\

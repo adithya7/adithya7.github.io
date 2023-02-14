@@ -6,7 +6,7 @@ permalink: /publications/
 
 See my publications on [Google Scholar](https://scholar.google.com/citations?user=BAT6abIAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Adithya-Pratapa/51132476) and [ACL Anthology](https://aclanthology.org/people/a/adithya-pratapa/).
 
-- Hierarchical Event Grounding \\
+- [Hierarchical Event Grounding](https://arxiv.org/abs/2302.04197) \\
 Jiefu Ou, _Adithya Pratapa_, Rishubh Gupta, Teruko Mitamura. \\
 _AAAI 2023_
 

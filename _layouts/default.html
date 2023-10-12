@@ -1,0 +1,119 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <title>{{ site.name }}</title>
+
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+
+  <meta name="author" content="{{ site.name }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h1>
+                Adithya Pratapa
+              </h1>
+              <p>
+                I am a Ph.D. student at the <a href="https://lti.cs.cmu.edu">Language Technology Institute</a>, part of <a href="https://www.scs.cmu.edu">School of Computer Science</a> at <a href="https://www.cmu.edu">Carnegie Mellon University</a>. My advisor is <a href="https://scholar.google.com/citations?user=gjsxBCkAAAAJ">Teruko Mitamura</a>.
+              </p>
+              <p>
+                Previously, I got my Masters at CMU and my Bachelors in Computer Science at <a href="https://www.iitb.ac.in">IIT Bombay</a>. I was a pre-doctoral research fellow at Microsoft Research working with <a href="https://scholar.google.com/citations?user=WR1ImCMAAAAJ">Monojit Choudhury</a>.
+              </p>
+              <p style="text-align:center">
+                <a href="mailto:vpratapa@cs.cmu.edu">Email</a> &nbsp;/&nbsp;
+                <a href="https://github.com/adithya7">GitHub</a> &nbsp;/&nbsp;
+                <a href="https://scholar.google.com/citations?user=BAT6abIAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+                <a href="https://www.semanticscholar.org/author/Adithya-Pratapa/51132476">Semantic Scholar</a>
+              </p>
+            </td>
+          </tr>
+        </table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Research</h2>
+              <p>
+                I'm interested in text summarization, multi-document information extraction and efficient NLP.
+              </p>
+            </td>
+          </tr>
+        </table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+          {% for post in site.posts %}
+          {% for cat in post.categories %}
+          {% if cat == 'research' %}
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h3>{{post.title}}</h3>
+              <br>
+              {{post.authors}}
+
+              <br>
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              {% if post.label %}
+               (<b>{{post.label}}</b>)
+              {% endif %}
+              <br>
+              {% if post.paper %}
+              <a href="{{post.paper}}">paper</a>
+              {% endif %}
+              {% if post.arxiv %}
+              / <a href="{{post.arxiv}}">arxiv</a>
+              {% endif %}
+              {% if post.code %}
+              / <a href="{{post.code}}">code</a>
+              {% endif %}
+              {% if post.website %}
+              / <a href="{{post.website}}">website</a>
+              {% endif %}
+              {% if post.poster %}
+              / <a href="{{post.poster}}">poster</a>
+              {% endif %}
+              {% if post.slides %}
+              / <a href="{{post.slides}}">slides</a>
+              {% endif %}
+              {% if post.video %}
+              / <a href="{{post.video}}">video</a>
+              {% endif %}
+              <p></p>
+              {{ post.excerpt }}
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+        </table>
+        <br>
+        <br>
+        <br>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:0px">
+              <br>
+              <p style="text-align:center;font-size:small;">
+                Design and source code from <a style="font-size:small;" href="https://leonidk.com">Leonid Keselman's website</a>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
+

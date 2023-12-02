@@ -7,5 +7,4 @@ author: "Adithya Pratapa"
 authors: "Jiefu Ou, Adithya Pratapa, Rishubh Gupta, Teruko Mitamura."
 venue: "AAAI"
 paper: https://arxiv.org/abs/2302.04197
-code: https://github.com/JefferyO/Hierarchical-Event-Grounding
 --- 

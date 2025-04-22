@@ -7,5 +7,5 @@ authors: "Adithya Pratapa, Teruko Mitamura"
 venue: "Preprint"
 paper: https://arxiv.org/abs/2504.12972
 code: https://github.com/adithya7/hybrid-rag
-label: New
+label: <i>(New)</i>
 --- 

@@ -64,10 +64,6 @@
 
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
-              {% if post.label %}
-               <br>
-               <b style="color:Coral;">{{post.label}}</b>
-              {% endif %}
               {% if post.paper %}
                 <br>
                 <a href="{{post.paper}}">paper</a>
@@ -91,6 +87,10 @@
               / <a href="{{post.talk}}">talk</a>
               {% endif %}
               {{ post.excerpt }}
+              {% if post.label %}
+               <br>
+               <b style="color:Coral;">{{post.label}}</b>
+              {% endif %}
             </td>
           </tr>
           {% endif %}

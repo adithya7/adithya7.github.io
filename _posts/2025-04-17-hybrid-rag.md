@@ -4,7 +4,7 @@ title:  "Estimating Optimal Context Length for Hybrid Retrieval-augmented Multi-
 date:   2025-04-17
 categories: research
 authors: "Adithya Pratapa, Teruko Mitamura"
-venue: "Preprint"
+venue: COLM (to appear)
 paper: https://arxiv.org/abs/2504.12972
 code: https://github.com/adithya7/hybrid-rag
 --- 
